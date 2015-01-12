@@ -1,2 +1,2 @@
-just a simple package
+just a simple package at v2.0
 
